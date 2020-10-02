@@ -1,0 +1,35 @@
+{
+  "name": "kaivax-discord-bot",
+  "version": "2.1.0",
+  "description": "The Kaivax discord bot by DWXE",
+  "engines": {
+    "node": "8.x",
+    "npm": "*"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "yeehawitsjake",
+  "dependencies": {
+    "@pm2/io": "^4.3.5",
+    "@rodrigogs/mysql-events": "^0.6.0",
+    "async-limiter": "1.0.0",
+    "discord-economy": "^1.2.2",
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "long": "4.0.0",
+    "mathjs": "^7.0.0",
+    "mysql": "^2.18.1",
+    "node-telegram-bot-api": "^0.50.0",
+    "npm": "^6.14.5",
+    "prism-media": "0.0.3",
+    "rcon": "^1.0.3",
+    "rcon-client": "^4.2.0",
+    "snekfetch": "3.6.4",
+    "sqlite3": "^4.2.0",
+    "ws": "6.2.1"
+  }
+}
