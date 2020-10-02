@@ -24,7 +24,7 @@
     "mathjs": "^7.0.0",
     "mysql": "^2.18.1",
     "node-telegram-bot-api": "^0.50.0",
-    "npm": "^6.14.5",
+    "npm": "^6.14.6",
     "prism-media": "0.0.3",
     "rcon": "^1.0.3",
     "rcon-client": "^4.2.0",
