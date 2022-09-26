@@ -12,7 +12,7 @@
   },
   "author": "yeehawitsjake",
   "dependencies": {
-    "@pm2/io": "^4.3.5",
+    "@pm2/io": "^5.0.0",
     "@rodrigogs/mysql-events": "^0.6.0",
     "async-limiter": "1.0.0",
     "discord-economy": "^1.2.2",
